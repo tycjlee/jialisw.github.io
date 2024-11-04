@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+*{ padding:0; margin:0; border:none; text-decoration:none; list-style:none; outline:none;}
+/* .main{ height:100%; width:100%; margin:0 auto;} */
+.worp{ width:1008px; margin:0 auto;}
+/*头部*/
+/* .header{ height:79px; width:100%; margin:16px auto 0; background:#6a1b6b; position:relative;} */
+/*导航*/
+
+/*正文*/
+/*产品中心*/
+.content{ width:100%; margin:50px auto 0;}
+.title1{ width:100%; text-align:center; line-height:18px;}
+.title2{ width:100%; margin-top:2px; text-align:center; line-height:18px; letter-spacing:1px; font-size:16px; font-family:"微软雅黑"; color:#242424; position:relative;}
+.line1{ float:left; height:1px; width:70px; position:absolute; top:9px; left:385px;}
+.line2{ float:right; height:1px; width:70px; position:absolute; top:9px; right:385px;}
+.product{ display:inline; float:left; width:610px; margin-left:205px;}
+.product li{ float:left; width:100%; height:185px; margin-top:40px;}
+.product li img{ float:left;  height:185px; margin-top:5px; margin-right:15px; width:105px;}
+.topic{ float:left; line-height:24px; font-size:13px; font-family:"微软雅黑"; letter-spacing:1px; color:#de422c; width:490px; margin-bottom:6px;}
+.topic1{ float:left; line-height:24px; font-size:13px; font-family:"微软雅黑"; letter-spacing:1px; color:#de422c; width:490px; margin-top:14px; margin-bottom:6px;}
+.text{ float:left; line-height:24px; font-size:12px; font-family:"宋体"; color:#3d3d3d; width:490px; text-indent:24px; position:relative;}
+.text a{ float:right; color:#de422c; position:absolute; top:24px; right:5px;}
+.text a:hover{ color:#03C;}
+.clear{ clear:both;}
+/*底部*/
+
